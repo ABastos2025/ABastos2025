@@ -84,8 +84,9 @@ Olá! sou Anderson Bastos, tenho 46 anos e trabalho com informática a mais de 1
 <br/>
 <br/>
 
-### 📈 Estatísticas
+---
 
+### 📈 Estatísticas
 <p>
   <img 
     align="left" 
