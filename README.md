@@ -9,12 +9,7 @@ src="https://img.shields.io/github/followers/ABastos2025?label=Seguidores&style=
 alt="Seguidores"
 />
 </a>
-<div data-importer="profile-views" align="left">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=ABastos2025.ABastos2025&left_text=Ultimos%20acessos"  />
-</div>
 
-###
-</p>
 
 ### 📚 Linguagens em estudo
 
