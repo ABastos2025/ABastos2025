@@ -4,12 +4,11 @@
 
 Olá! sou Anderson Bastos, tenho 46 anos e trabalho com informática a mais de 15 anos, mas nos ultimos 02 anos iniciei minhas atividades no desenvolvivmento de sistemas e web focado no back-end, aprendendo PHP e Laravel... <br><br>
     <a href="https://github.com/ABastos2025?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ABastos2025?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<img
+src="https://img.shields.io/github/followers/ABastos2025?label=Seguidores&style=for-the-badge&logo=github"
+alt="Seguidores"
+/>
+</a>
 </p>
 
 ---
