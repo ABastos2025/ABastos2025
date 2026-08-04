@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end PHP`**
 
-Olá! sou Anderson Bastos, tenho 46 anos e trabalho com informática a mais de 15 anos, mas nos ultimos 02 anos iniciei minhas atividades no desenvolvivmento de sistemas e web focado no back-end, aprendendo PHP e Laravel... <br><br>
+Olá! sou Anderson Bastos, tenho 47 anos e trabalho com informática a mais de 15 anos, mas nos ultimos 02 anos iniciei minhas atividades no desenvolvivmento de sistemas e web focado no back-end, aprendendo PHP e Laravel... <br><br>
     <a href="https://github.com/ABastos2025?tab=followers">
 <img
 src="https://img.shields.io/github/followers/ABastos2025?label=Seguidores&style=for-the-badge&logo=github"
